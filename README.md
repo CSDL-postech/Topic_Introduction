@@ -34,7 +34,6 @@
 
 * GAN-based Dummy Fill Generation
 * Transformer-based Dummy Fill Generation
-* Diffusion-based Global Placement
 
 ## [RL-based Optimization](https://github.com/CSDL-postech/Topic_Introduction/tree/main/RL_Opt)
 
