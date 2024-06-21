@@ -6,11 +6,6 @@
 * GPU Accelerated Global Placement
 
 
-* GPU Accelerated Global Routing
-
-
-* GPU Accelerated Gate Sizing
-
 
 * Row-constraint Placement
 
