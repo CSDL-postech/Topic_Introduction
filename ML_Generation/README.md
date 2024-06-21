@@ -1,4 +1,4 @@
-## ML-based Generation
+# ML-based Generation
 
 * GAN-based Dummy Fill Generation
 
