@@ -5,6 +5,3 @@
 
 * Transformer-based Dummy Fill Generation
 
-
-* Diffusion-based Global Placement
-
