@@ -1,4 +1,4 @@
-![image](https://github.com/CSDL-postech/Topic_Introduction/assets/67090206/76a859a4-5179-4cc8-83c4-28dab1c352ab)# Analog Circuit Optimization
+# Analog Circuit Optimization
 
 * RL-based Analog Circuit Optimization
 
@@ -14,13 +14,16 @@ Fast circuit simulation for analog circuit array helps
 
 Traditional SPICE Simulation needs huge computation costs.
 
-![image](https://github.com/CSDL-postech/Topic_Introduction/assets/67090206/6d2fcd7e-f1a3-43f2-a410-b3f28bccfdd9)
+![image](https://github.com/CSDL-postech/Topic_Introduction/assets/67090206/bd9f74b0-2b24-4a53-994a-559ef4d19a57)
+
 
 ## Method
 We propose ML-based circuit array simulation for fast and accurate results
+
 ### RNN based Model Structure and Dataflow
 
-![image](https://github.com/CSDL-postech/Topic_Introduction/assets/67090206/08aa6a75-5cdb-4c62-8603-7a4cf8dce7ea)
+![image](https://github.com/CSDL-postech/Topic_Introduction/assets/67090206/deb3b501-1854-4475-9adc-385c7ec20697)
+
 
 ### Model
 
